@@ -1,5 +1,7 @@
-### Hi there 👋
+### Fanis Tharropoulos
 
+- I'm currently working on finishing my master's thesis, analyzing the coding possibilites of GitHub Copilot. The final presentation will be available and listed here when published.
+- I'm also working on my personal passion project, a social media application for discussing videogames and managing your personal videogame backlog called Backlogged.
 <!--
 **tharropoulos/tharropoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,6 +3,7 @@
 ## Fanis Tharropoulos
 
 <img src="img/demo.gif" alt="Demonstration of ghfetch" height="auto" width="auto"/>
+
 The image above was geenrated using [ghfetch](https://github.com/orangekame3/ghfetch)
 
 ## About Me

@@ -6,8 +6,10 @@
 
 The image above was geenrated using [ghfetch](https://github.com/orangekame3/ghfetch)
 
+</div>
+
 ## About Me
+
 I'm a Software Engineer with a MSc in Electrical & Computer Engineering, excited about Open Source.
 
 Check out [Typesense](https://github.com/typesense/typesense), a fast, typo-tolerant search engine for building delightful search experiences.
-</div>

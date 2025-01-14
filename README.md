@@ -4,7 +4,7 @@
 
 <img src="img/demo.gif" alt="Demonstration of ghfetch" height="auto" width="auto"/>
 
-The image above was geenrated using [ghfetch](https://github.com/orangekame3/ghfetch)
+The image above was generated using [ghfetch](https://github.com/orangekame3/ghfetch), check it out!
 
 </div>
 

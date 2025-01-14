@@ -1,4 +1,5 @@
 <div align="center">
+
 ## Fanis Tharropoulos
 
 <img src="img/demo.gif" alt="Demonstration of ghfetch" height="auto" width="auto"/>

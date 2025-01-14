@@ -42,8 +42,9 @@
 
 Output img/demo.gif
 Set Margin 20
-Set MarginFill "#674EFF"
-Set BorderRadius 10
+Set MarginFill "#F38BA8"
+Set BorderRadius 15
+Set Theme "Catppuccin Mocha"
 
 Set FontSize 32
 Set Width 1500

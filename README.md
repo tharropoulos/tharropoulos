@@ -8,8 +8,4 @@ The image above was generated using [ghfetch](https://github.com/orangekame3/ghf
 
 </div>
 
-## About Me
-
-<p style="font-size: 1.5em;">I'm a Software Engineer with a MSc in Electrical & Computer Engineering, excited about Open Source.</p>
-
 <p style="font-size: 1.5em;">Check out <a href="https://github.com/typesense/typesense">Typesense</a>, a fast, typo-tolerant search engine for building delightful search experiences.</p>
